@@ -31,6 +31,7 @@ My future plans to build on this project include experimenting with computer vis
 ### Involvement in the Scientific Community
 
 Throughout the semester, I made a conscious effort to become more involved and engaged with the scientific community. My first step was to learn and contribute to academia through this undergraduate research project. Next, I read research publications and articles about technological advancements in industry. I decided to take this a step further by attending research conferences and symposiums, faculty talks, industry events, and honors thesis defenses. These include:
+
 <br>
 - Institute for Foundations of Machine Learning: AI for Accurate and Fair Imaging with Alex Dimakis
 <br>
