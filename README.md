@@ -11,7 +11,7 @@ Emerging technologies are disrupting the art industry and changing the way we cr
 
 ### Results
 
-The final machine learning model presented is a deep convolutional neural network for the multi-class classification of fine art by its artistic style. The style of an artwork refers to its distinctive visual elements, techniques, and methods, typically corresponding with an art movement or school group that the artist is associated with. Currently, t
+The final machine learning model presented is a deep convolutional neural network for the multi-class classification of fine art by its artistic style. The style of an artwork refers to its distinctive visual elements, techniques, and methods, typically corresponding with an art movement or school group that the artist is associated with.
 
 The cs370-tejassaboo-ml-for-stylistic-classification-of-fine-art-multiclass model is used to distinguish between the artistic styles of Cubism, Ukiyo-e, Northern Renaissance, and Pointillism. The model is highly successful with a 97.1250% accuracy on the training set and 46.0000% accuracy on the test set after 70 epochs of training.
 
